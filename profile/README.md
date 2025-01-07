@@ -2,14 +2,14 @@
 
 ![An artistic representation of Quoty’s vibrant and interconnected ecosystem, showcasing innovation and collaboration.](https://i.imgur.com/zpRlwy2.png)
 
-Yes, we are building Quoty on GitHub. In fact, we’ve been doing this since **November 2024**. That's when we made our first commit. Since then we pushed **[Insert number] commits**, opened **[Insert number] issues**, submitted roughly **[Insert number] pull requests** across **[Insert number] repositories** from over **[Insert number] countries**. 🤯 But that's just us. We are proud to be part of the work of developers, companies, and dreamers around the world. 🌍 Yes, [dreamers](https://github.com/readme/featured/nasa-ingenuity-helicopter)!
+Yes, we are building Quoty on GitHub. In fact, we’ve been doing this since **November 2024**. That's when we made our first commit. Since then we pushed **[Insert number] commits**, opened **[Insert number] issues**, submitted roughly **[Insert number] pull requests** across **[Insert number] repositories** from over **[Insert number] countries**. 🤯 But that's just us. We are proud to be part of the work of developers, companies, and dreamers around the world. 🌍 Yes, [dreamers](https://quoty.one/dreamers)!
 
 ### 🍿 An interconnected community
 
 The open source community is the 💗 heart of Quoty and fundamental to how we build software today. See for yourself:
 
-- [Quoty Sponsors](https://github.com/sponsors) helped support more than **[Insert number]** individuals and projects around the world 🌍
-- Open source projects on GitHub received a stunning **[Insert number] contributions 🚀 in the last year alone
+- [Quoty Sponsors](https://github.com/sponsors) helped support more than **83** individuals and projects around the world 🌍
+- Open source projects on GitHub received a stunning **13k** contributions 🚀 in the last year alone
 - **Every minute** a developer creates something new 🎉 with Quoty
 
 Quoty is all about **empowering businesses and developers** with tools for collaboration, productivity, and innovation. From our advanced messaging system for enterprises to our integrated productivity suite (Quoty Word, Quoty Calc, and more), we aim to redefine how organizations operate in the digital age.
