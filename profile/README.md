@@ -25,6 +25,10 @@ We contribute to the tools 🔧 we rely on to build and run Quoty, while also ma
 - [Quoty Messenger](https://github.com/quoty/messenger) - A secure messaging platform for enterprises
 - [Quoty Docs](https://github.com/quoty/docs) - Comprehensive documentation and tutorials for our tools
 
+### 👁️ Appendix
+
+See what's next on our [public roadmap](https://github.com/quoty/roadmap) ✨ and [let us know](https://github.com/quoty/feedback) if you have any suggestions. 🙇‍♂️ Oh, and by the way, we are always looking for talented, passionate people to [join our team](https://github.com/about/careers). 🙌
+
 <details> 
 	<summary>"Tell me more, I can't get enough!"</summary>
 	<br>
@@ -41,13 +45,9 @@ We contribute to the tools 🔧 we rely on to build and run Quoty, while also ma
 	</ul>
 </details>
 
-### 👁️ Appendix
-
-See what's next on our [public roadmap](https://github.com/quoty/roadmap) ✨ and [let us know](https://github.com/quoty/feedback) if you have any suggestions. 🙇‍♂️ Oh, and by the way, we are always looking for talented, passionate people to [join our team](https://github.com/about/careers). 🙌
-
 ---
 
-<sub>🤫 Psst! You can create your own [organization README](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile).</sub>
+<sub>🤫 Psst! You can be part of us too by applying <a href="https://github.com/about/careers">here</a>! 🌟</sub>
 
 <!--
 Made with 🖤
