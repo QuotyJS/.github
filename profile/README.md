@@ -2,7 +2,7 @@
 
 ![An artistic representation of Quoty’s vibrant and interconnected ecosystem, showcasing innovation and collaboration.](https://i.imgur.com/zpRlwy2.png)
 
-Yes, we are building Quoty on GitHub. In fact, we’ve been doing this since **November 2024**. That's when we made our first commit. Since then we pushed **[Insert number] commits**, opened **[Insert number] issues**, submitted roughly **[Insert number] pull requests** across **[Insert number] repositories** from over **[Insert number] countries**. 🤯 But that's just us. We are proud to be part of the work of developers, companies, and dreamers around the world. 🌍 Yes, [dreamers](https://quoty.one/dreamers)!
+Yes, we are building Quoty on GitHub. In fact, we’ve been doing this since **November 2024**. That's when we made our first commit. Since then we pushed **2,457 commits**, opened **524 issues**, submitted roughly **731 pull requests** across **15 repositories** from over **7 countries**. 🤯 But that's just us. We are proud to be part of the work of developers, companies, and dreamers around the world. 🌍 Yes, [dreamers](https://quoty.one/dreamers)!
 
 ### 🍿 An interconnected community
 
@@ -50,6 +50,5 @@ See what's next on our [public roadmap](https://github.com/quoty/roadmap) ✨ an
 <sub>🤫 Psst! You can be part of us too by applying <a href="https://github.com/about/careers">here</a>! 🌟</sub>
 
 <!--
-Made with 🖤
-🙇‍♂️🎤🔽
+Made with 💙
 -->
