@@ -1,6 +1,6 @@
 ## Hey, this is us 👋
 
-![An artistic representation of Quoty’s vibrant and interconnected ecosystem, showcasing innovation and collaboration.](https://i.imgur.com/zpRlwy2.png)
+![An artistic representation of Quoty’s vibrant and interconnected ecosystem, showcasing innovation and collaboration.](https://i.imgur.com/h2khTkW.png)
 
 Yes, we are building Quoty on GitHub. In fact, we’ve been doing this since **November 2024**. That's when we made our first commit. Since then we pushed **2,457 commits**, opened **524 issues**, submitted roughly **731 pull requests** across **15 repositories** from over **7 countries**. 🤯 But that's just us. We are proud to be part of the work of developers, companies, and dreamers around the world. 🌍 Yes, [dreamers](https://quoty.one/dreamers)!
 
